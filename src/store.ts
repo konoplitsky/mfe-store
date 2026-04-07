@@ -1,8 +1,6 @@
 import { create } from 'zustand'
 
 const a = 9
-const b = 9
-const c = 9
 
 interface Index {
     count: number
