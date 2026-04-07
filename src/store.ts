@@ -1,5 +1,7 @@
 import { create } from 'zustand'
 
+const a = 9
+
 interface Index {
     count: number
     increment: () => void
