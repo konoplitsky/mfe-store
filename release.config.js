@@ -33,7 +33,7 @@ const releaseRules = [
 ]
 
 export default {
-    branches: ["main"],
+    branches: ["release"],
     plugins: [
         [
             "@semantic-release/commit-analyzer",
