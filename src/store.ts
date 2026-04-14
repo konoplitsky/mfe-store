@@ -1,5 +1,9 @@
 import { create } from 'zustand'
 
+console.log('123')
+console.log('123')
+console.log('123')
+
 interface Index {
     count: number
     increment: () => void
