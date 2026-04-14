@@ -32,6 +32,7 @@ const releaseRules = [
     { type: 'tests', release: false },
 ]
 
+
 export default {
     branches: ["release"],
     plugins: [
